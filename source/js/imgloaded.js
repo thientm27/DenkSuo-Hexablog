@@ -3,111 +3,128 @@
  * @description 实现medium的渐进加载背景的效果
  */
   // 定义ProgressiveLoad类
-  class ProgressiveLoad {
-    constructor(smallSrc, largeSrc) {
-      this.smallSrc = smallSrc;
-      this.largeSrc = largeSrc;
-      this.initScrollListener(),
-      this.initTpl();
-    }
-    // 这里的1是滚动全程渐变 改为0.3就是前30%渐变后固定前30%产生的渐变效果
-    initScrollListener() {
-      window.addEventListener("scroll", (()=>{
-        var e = Math.min(window.scrollY / window.innerHeight, 1);
-        this.container.style.setProperty("--process", e)
-      }
-      ))
-    }
-    /**
-     * @description 生成ui模板
-     */
-    initTpl() {
-      this.container = document.createElement('div');
-      this.smallStage = document.createElement('div');
-      this.largeStage = document.createElement('div');
-      this.video = document.createElement('div');
-      this.smallImg = new Image();
-      this.largeImg = new Image();
-      this.container.className = 'pl-container';
-      this.container.style.setProperty("--process", 0),
-      this.smallStage.className = 'pl-img pl-blur';
-      this.largeStage.className = 'pl-img';
-      this.video.className = 'pl-video';
-      this.container.appendChild(this.smallStage);
-      this.container.appendChild(this.largeStage);
-      this.container.appendChild(this.video);
-      this.smallImg.onload = this._onSmallLoaded.bind(this);
-      this.largeImg.onload = this._onLargeLoaded.bind(this);
-    }
-
-    /**
-     * @description 加载背景
-     */
-    progressiveLoad() {
-      this.smallImg.src = this.smallSrc;
-      this.largeImg.src = this.largeSrc;
-    }
-    /**
-     * @description 大图加载完成
-     */
-    _onLargeLoaded() {
-      this.largeStage.classList.add('pl-visible');
-      this.largeStage.style.backgroundImage = `url('${this.largeSrc}')`;
-    }
-     /**
-     * @description 小图加载完成
-     */
-    _onSmallLoaded() {
-      this.smallStage.classList.add('pl-visible');
-      this.smallStage.style.backgroundImage = `url('${this.smallSrc}')`;
-    }
+class ProgressiveLoad {
+  constructor(smallSrc, largeSrc) {
+    this.smallSrc = smallSrc;
+    this.largeSrc = largeSrc;
+    this.initScrollListener(),
+        this.initTpl();
+  }
+  // 这里的1是滚动全程渐变 改为0.3就是前30%渐变后固定前30%产生的渐变效果
+  initScrollListener() {
+    window.addEventListener("scroll", (()=>{
+          var e = Math.min(window.scrollY / window.innerHeight, 1);
+          this.container.style.setProperty("--process", e)
+        }
+    ))
+  }
+  /**
+   * @description 生成ui模板
+   */
+  initTpl() {
+    this.container = document.createElement('div');
+    this.smallStage = document.createElement('div');
+    this.largeStage = document.createElement('div');
+    this.video = document.createElement('div');
+    this.smallImg = new Image();
+    this.largeImg = new Image();
+    this.container.className = 'pl-container';
+    this.container.style.setProperty("--process", 0),
+        this.smallStage.className = 'pl-img pl-blur';
+    this.largeStage.className = 'pl-img';
+    this.video.className = 'pl-video';
+    this.container.appendChild(this.smallStage);
+    this.container.appendChild(this.largeStage);
+    this.container.appendChild(this.video);
+    this.smallImg.onload = this._onSmallLoaded.bind(this);
+    this.largeImg.onload = this._onLargeLoaded.bind(this);
   }
 
-  const executeLoad = (config, target) => {
-    console.log('执行渐进背景替换');
-    const isMobile = window.matchMedia('(max-width: 767px)').matches;
-    const loader = new ProgressiveLoad(
+  /**
+   * @description 加载背景
+   */
+  progressiveLoad() {
+    this.smallImg.src = this.smallSrc;
+    this.largeImg.src = this.largeSrc;
+  }
+  /**
+   * @description 大图加载完成
+   */
+  _onLargeLoaded() {
+    this.largeStage.classList.add('pl-visible');
+    this.largeStage.style.backgroundImage = `url('${this.largeSrc}')`;
+  }
+  /**
+   * @description 小图加载完成
+   */
+  _onSmallLoaded() {
+    this.smallStage.classList.add('pl-visible');
+    this.smallStage.style.backgroundImage = `url('${this.smallSrc}')`;
+  }
+}
+
+const executeLoad = (config, target) => {
+  console.log('执行渐进背景替换');
+  const isMobile = window.matchMedia('(max-width: 767px)').matches;
+  const loader = new ProgressiveLoad(
       isMobile ? config.mobileSmallSrc : config.smallSrc,
       isMobile ? config.mobileLargeSrc : config.largeSrc
-    );
-    // 和背景图颜色保持一致，防止高斯模糊后差异较大
-    if (target.children[0]) {
-      target.insertBefore(loader.container, target.children[0]);
-    }
-    loader.progressiveLoad();
-  };
+  );
+  // 和背景图颜色保持一致，防止高斯模糊后差异较大
+  if (target.children[0]) {
+    target.insertBefore(loader.container, target.children[0]);
+  }
+  loader.progressiveLoad();
+};
 
-  const config = {
-    smallSrc: 'https://imgrd.benkstudio.com', // 小图链接 尽可能配置小于100k的图片
-    largeSrc: 'https://imgrd.benkstudio.com', // 大图链接 最终显示的图片
-    mobileSmallSrc: 'https://imgrd.benkstudio.com', // 手机端小图链接 尽可能配置小于100k的图片
-    mobileLargeSrc: 'https://imgrd.benkstudio.com', // 手机端大图链接 最终显示的图片
-    enableRoutes: ['/'],
-    };
+const config = {
+  smallSrc: 'https://benkstudio-img-rd.denkhotieu1.workers.dev/', // 小图链接 尽可能配置小于100k的图片
+  largeSrc: 'https://benkstudio-img-rd.denkhotieu1.workers.dev/', // 大图链接 最终显示的图片
+  mobileSmallSrc: 'https://benkstudio-img-rd.denkhotieu1.workers.dev/', // 手机端小图链接 尽可能配置小于100k的图片
+  mobileLargeSrc: 'https://benkstudio-img-rd.denkhotieu1.workers.dev/', // 手机端大图链接 最终显示的图片
+  enableRoutes: ['/'],
+};
 
-  function initProgressiveLoad(config) {
-    // 每次加载前先清除已有的元素
+function initProgressiveLoad(config) {
+  // Chỉ chạy hiệu ứng này trên các route được khai báo trong config.enableRoutes (mặc định: trang chủ '/')
+  // Tránh việc script ghi đè top_img của các trang khác (About Me, Services, bài viết...)
+  const currentPath = window.location.pathname;
+  const isEnabledRoute = config.enableRoutes.includes(currentPath);
+  if (!isEnabledRoute) {
+    return;
+  }
+  // 每次加载前先清除已有的元素
+  const container = document.querySelector('.pl-container');
+  if (container) {
+    container.remove();
+  }
+  const target = document.getElementById('page-header');
+  if (target && target.classList.contains('full_page')) {
+    executeLoad(config, target);
+  }
+}
+
+function onPJAXComplete(config) {
+  const currentPath = window.location.pathname;
+  const isEnabledRoute = config.enableRoutes.includes(currentPath);
+  if (!isEnabledRoute) {
+    // Rời khỏi route được enable: dọn container cũ để không còn sót ảnh banner trang chủ trên trang khác
     const container = document.querySelector('.pl-container');
     if (container) {
       container.remove();
     }
-    const target = document.getElementById('page-header');
-    if (target && target.classList.contains('full_page')) {
-      executeLoad(config, target);
-    }
+    return;
   }
-
-  function onPJAXComplete(config) {
-    const target = document.getElementById('page-header');
-    if (target && target.classList.contains('full_page')) {
-      initProgressiveLoad(config);
-    }
-  }
-
-  document.addEventListener("DOMContentLoaded", function() {
+  const target = document.getElementById('page-header');
+  if (target && target.classList.contains('full_page')) {
     initProgressiveLoad(config);
-  });
+  }
+}
 
-  document.addEventListener("pjax:complete", function() {
-    onPJAXComplete(config);
-  });
+document.addEventListener("DOMContentLoaded", function() {
+  initProgressiveLoad(config);
+});
+
+document.addEventListener("pjax:complete", function() {
+  onPJAXComplete(config);
+});

@@ -1,7 +1,7 @@
 ---
 title: Denk Ultils
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD1GjrjRp6IMf2AUOFA3kDCXNZyRHDAAK5DGsbkilgV7obd2b7C-aWAQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD1GjrjRp6IMf2AUOFA3kDCXNZyRHDAAK5DGsbkilgV7obd2b7C-aWAQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD1GjrjRp6IMf2AUOFA3kDCXNZyRHDAAK5DGsbkilgV7obd2b7C-aWAQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD1GjrjRp6IMf2AUOFA3kDCXNZyRHDAAK5DGsbkilgV7obd2b7C-aWAQADAgADdwADNgQ
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -11,7 +11,7 @@ categories: [ Internal Documentation ]
 decription: A lightweight providing commonly used helpers for UI, math, transforms, collections, enums, logging, and more.
 top: 10
 ---
-
+``
 # 🧰 denk-unity-utils
 
 A lightweight **utility library for Unity 6**, providing commonly used helpers for UI, math, transforms, collections,

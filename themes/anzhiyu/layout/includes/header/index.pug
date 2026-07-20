@@ -21,7 +21,8 @@ if !theme.disable_top_img && page.top_img !== false
 else
   - var top_img = false
   - var isHomeClass = 'not-top-img'
-header#page-header(class=`${isHomeClass}` style=home_index_img_bg)
+- var header_style = is_home() ? home_index_img_bg : (top_img !== false && !is_post() ? `background-image: url(${bg_img})` : '')
+header#page-header(class=`${isHomeClass}` style=header_style)
   !=partial('includes/header/nav', {}, {cache: true})
   if top_img !== false
     if is_post()
@@ -42,7 +43,7 @@ header#page-header(class=`${isHomeClass}` style=home_index_img_bg)
         #post-top-cover
           img#post-top-bg(class='nolazyload' src=bg_img)
 
-    else if is_home() 
+    else if is_home()
       #site-info
         h1#site-title=site_title
         if theme.subtitle.enable

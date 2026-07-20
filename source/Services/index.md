@@ -5,8 +5,8 @@ date: 2025-07-08 15:00:00
 type:
 updated:
 comments:
-description: Discover the professional game development services Benk Studio provides.
-keywords: game development, benk studio, services, playable ads, mobile game, game outsourcing
+description: Professional Unity game development services by Thiện Trần Minh (Denk).
+keywords: Unity Developer, game development, mobile game, playable ads, Unity services, freelance game developer
 mathjax:
 katex:
 aside: false
@@ -15,169 +15,278 @@ highlight_shrink:
 top_single_background:
 ---
 
-# ✅ Benk Studio Game Services 🌟
+# 🎮 Game Development Services
 
-We provide full-stack solutions for game development and digital experiences. Whether you're a startup launching your first title, or a brand looking to gamify your marketing — we’ve got your back.
+I help businesses, startups, and game teams bring their ideas to life through **Unity development, gameplay programming, and technical solutions**.
 
----
-
-## 🕹 Full-cycle Game Development
-
-We build games for multiple platforms:
-
-- 📱 Mobile: Android / iOS
-- 🌐 Web: HTML5, cross-platform
-- 🎯 Business: Viral mini-games, branded gamification
-
-> From idea to release — scalable and high-performing games built with the world’s top engines.
+With experience developing casual games, mobile applications, GameFi features, and interactive experiences, I provide development support from **prototype to production**.
 
 ---
 
-## 🎨 Game Art & Asset Production
+## 🕹 Unity Game Development
 
-Our in-house artists specialize in:
+I provide Unity development services across multiple platforms:
 
-- ✏️ Concept art (characters, environments)
-- 🖼 UI/UX design for mobile/web
-- 🎨 Asset packs, 2D & 3D models, animations
+- 📱 Mobile Games: Android / iOS
+- 🌐 Web Games: WebGL, HTML5 experiences
+- 🎯 Casual Games & Hyper-casual Prototypes
+- 🎮 Gameplay systems and interactive features
 
-> We create visually stunning assets tailored for your game’s style and platform.
-
----
-
-## 🎥 Video & Playable Ads
-
-We produce high-converting creatives:
-
-- 🎬 Game trailers, app store previews
-- 📲 Interactive Playable Ads for Meta, Google, Unity Ads
-
-> Creative assets optimized for CTR, retention, and installs.
+> From idea validation to release-ready products — building optimized and scalable gameplay experiences.
 
 ---
 
-## 📈 Ad Integration & Growth
+## ⚙️ Gameplay Programming & Systems
 
-Supported SDKs & Tools:
+Development support for:
+
+- 🎮 Gameplay mechanics and core systems
+- 🏗 Clean architecture and design patterns
+- 🔄 Event-driven programming
+- 🎯 UI systems and game flow
+- 💾 Save systems and player progression
+- 🔌 Third-party SDK integration
+
+> Creating reliable and maintainable game systems with a focus on performance and player experience.
+
+---
+
+## 🎨 Game Art Integration & Implementation
+
+I support the technical implementation of game assets:
+
+- 🖼 2D asset integration
+- 🎭 Character animation setup
+- 🦴 Spine animation integration
+- 🎨 UI implementation and optimization
+- ⚙️ Asset pipeline setup
+
+> Working closely with artists and designers to transform creative ideas into polished gameplay experiences.
+
+---
+
+## 🎥 Playable Ads & Interactive Experiences
+
+Development support for:
+
+- 🎬 Playable advertisements
+- 📲 Interactive marketing mini-games
+- 🎯 User acquisition creatives
+- 📱 Lightweight mobile experiences
+
+> Building engaging interactive content optimized for user acquisition and marketing campaigns.
+
+---
+
+## 📈 Monetization & Analytics Integration
+
+Technical experience with:
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px; justify-content: start;">
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Google Ads</div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/google_ads-512.png" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Google Ads</div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admob_800px_logo_admob.width-500.format-webp.webp" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">AdMob</div>
+  <div style="text-align:center;width:100px;">
+    <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/logo_admob_800px_logo_admob.width-500.format-webp.webp" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">AdMob</div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Firebase</div>
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Firebase</div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://companieslogo.com/img/orig/APP-c9fed3a2.png?t=1720244490" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">AppLovin</div>
+  <div style="text-align:center;width:100px;">
+    <img src="https://companieslogo.com/img/orig/APP-c9fed3a2.png?t=1720244490" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">AppLovin</div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn.prod.website-files.com/5ecbeb8d7557e7f636691721/65837c5f480644e2de769eb5_AppsFlyer_logo.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">AppsFlyer</div>
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn.prod.website-files.com/5ecbeb8d7557e7f636691721/65837c5f480644e2de769eb5_AppsFlyer_logo.png" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">AppsFlyer</div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://avatars.githubusercontent.com/u/77577308?s=280&v=4" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">ironSource</div>
+  <div style="text-align:center;width:100px;">
+    <img src="https://avatars.githubusercontent.com/u/77577308?s=280&v=4" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">ironSource</div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://avatars.githubusercontent.com/u/108262825?v=4" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Solar Engine</div>
+  <div style="text-align:center;width:100px;">
+    <img src="https://avatars.githubusercontent.com/u/108262825?v=4" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Solar Engine</div>
   </div>
 
-  <div style="text-align: center; width: 100px;">
-    <img src="https://avatars.githubusercontent.com/u/7634333?v=4" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">PlayFab</div>
+  <div style="text-align:center;width:100px;">
+    <img src="https://avatars.githubusercontent.com/u/7634333?v=4" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">PlayFab</div>
   </div>
+
 </div>
 
 <br>
 
-Services include:
-- 🔧 SDK integration & event tracking
-- 📊 Firebase Analytics, conversion tracking
-- 🚀 Campaign setup & scaling support (UA + retargeting)
+Experience includes:
 
-> We handle both technical setup and creative testing for ad success.
-
----
-
-## 💡 Game Consulting & Optimization
-
-We offer deep-dive support on:
-
-- 🎮 Gameplay tuning, monetization strategy
-- 🔄 UX & flow optimization
-- ⚙️ Performance and build size improvements
-- 🌍 Publishing readiness (store assets, configs, analytics)
-
-> Build better games with expert insights at every stage.
+- 🔧 SDK integration
+- 📊 Analytics event tracking
+- 💰 Monetization implementation
+- 🚀 User acquisition support
+- 📈 Performance monitoring
 
 ---
 
-## 🛠 Technologies We Use
+## 💡 Game Optimization & Technical Consulting
 
-## 🛠 Technologies We Use
+I provide technical support for improving existing projects:
 
-### 🎮 Game Engines
+- 🎮 Gameplay improvement
+- ⚙️ Performance optimization
+- 📦 Build size reduction
+- 🔄 Code refactoring
+- 🌍 Mobile publishing preparation
+- 📊 Analytics and monetization review
+
+> Helping developers and teams build better games with practical engineering solutions.
+
+---
+
+# 🛠 Technologies I Use
+
+## 🎮 Game Engines
 
 <div style="display: flex; flex-wrap: wrap; gap: 28px; margin-top: 12px; justify-content: start;">
+
   <div style="text-align: center; width: 100px;">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjke7sWF2brzyXZpscrJNXEa37-c2rNJN3jA&s" width="40" />
     <div style="font-size: 13px; margin-top: 6px;">Unity</div>
   </div>
+
   <div style="text-align: center; width: 100px;">
     <img src="https://download.cocos.com/CocosWww/2021/09/CocosLogoTransparent.png" width="40" />
     <div style="font-size: 13px; margin-top: 6px;">Cocos</div>
   </div>
-  <div style="text-align: center; width: 100px;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-icon.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Unreal</div>
-  </div>
+
+[//]: # (  <div style="text-align: center; width: 100px;">)
+
+[//]: # (    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/unreal-engine-icon.png" width="40" />)
+
+[//]: # (    <div style="font-size: 13px; margin-top: 6px;">Unreal Engine</div>)
+
+[//]: # (  </div>)
+
 </div>
 
-### 🎨 Designing Tools
+
+## 💻 Programming & Backend
 
 <div style="display: flex; flex-wrap: wrap; gap: 28px; margin-top: 12px; justify-content: start;">
-  <div style="text-align: center; width: 100px;">
-    <img src="https://static.vecteezy.com/system/resources/previews/049/116/750/non_2x/blender-transparent-background-icon-free-png.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Blender</div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">C#</div>
   </div>
-  <div style="text-align: center; width: 100px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Photoshop</div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">.NET</div>
   </div>
-  <div style="text-align: center; width: 100px;">
-    <img src="https://esotericsoftware.com/files/branding/spine_badge.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Spine</div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">SQL</div>
   </div>
-  <div style="text-align: center; width: 100px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">Figma</div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Git</div>
   </div>
-  <div style="text-align: center; width: 100px;">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/capcut-icon.png" width="40" />
-    <div style="font-size: 13px; margin-top: 6px;">CapCut</div>
+
+</div>
+
+
+## 🎨 Design & Creative Tools
+
+<div style="display: flex; flex-wrap: wrap; gap: 28px; margin-top: 12px; justify-content: start;">
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://static.vecteezy.com/system/resources/previews/049/116/750/non_2x/blender-transparent-background-icon-free-png.png" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Blender</div>
   </div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6B5SGD216zta_gT7dCFiifXIyY3dmxlC3bRaSnp1Qaw&s" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Photoshop</div>
+  </div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://esotericsoftware.com/files/branding/spine_badge.png" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Spine</div>
+  </div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">Figma</div>
+  </div>
+
+</div>
+
+
+## 🔧 Development Workflow
+
+<div style="display: flex; flex-wrap: wrap; gap: 28px; margin-top: 12px; justify-content: start;">
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">GitHub</div>
+  </div>
+
+  <div style="text-align:center;width:100px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+    <div style="font-size:13px;margin-top:6px;">GitLab</div>
+  </div>
+
+  <div style="text-align:center;width:100px;">
+    <div style="font-size:32px;">☁️</div>
+    <div style="font-size:13px;margin-top:6px;">Cloud Services</div>
+  </div>
+
+  <div style="text-align:center;width:100px;">
+    <div style="font-size:32px;">📱</div>
+    <div style="font-size:13px;margin-top:6px;">Mobile Build</div>
+  </div>
+
 </div>
 
 ---
 
-## 🤝 Let's Work Together
+# 🚀 Project Support
 
-Want to launch a new game, produce engaging ads, or scale your user acquisition?  
-📧 Contact us at: [benk.studiogame@gmail.com](mailto:benk.studiogame@gmail.com)
+Need help turning your game idea into reality?
 
-Or [submit a request form →](#) *(Coming soon)*
+I can support with:
 
-> Great games are built with great teams. Let’s make yours happen.
+- 🎮 Unity game development
+- 🧩 Gameplay programming
+- 📱 Mobile game optimization
+- 🔌 SDK and third-party integrations
+- 💰 Monetization implementation
+- 🛠 Existing project improvement
+
+---
+
+# 🤝 Let's Work Together
+
+Have a game idea, need technical support, or want to improve an existing project?
+
+Feel free to contact me:
+
+📧 **Email:** [Thientm.denk@gmail.com](mailto:Thientm.denk@gmail.com)
+
+💻 **GitHub:** [github.com/Thientm27](https://github.com/Thientm27)
+
+🔗 **LinkedIn:** [linkedin.com/in/thientran-denk](https://www.linkedin.com/in/thientran-denk)
+
+> Building games is not only about writing code — it is about creating experiences players remember.

@@ -34,7 +34,7 @@ nav:
         - name: Services
           link: /Services
           icon: https://cdn-icons-png.flaticon.com/512/10760/10760660.png
-        - name: About us
+        - name: About Me
           link: /AboutUs
           icon: https://cdn-icons-png.flaticon.com/512/213/213325.png
 
@@ -141,7 +141,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADBGhPC1oGy7b92vhY9f1ChchoPXmLAAJexTEbpKyAVso5IbploCV4AQADAgADeAADNgQ
+  img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QACAQtqXnuaL1Pd2BFs8fmjHf-cjMhxHgACHBZrG3NK8FZFzOTO6ohY7QEAAwIAA3gAAz0E
   effect: false
 
 # Disable all banner image
@@ -175,7 +175,7 @@ error_img:
 # A simple 404 page
 error_404:
   enable: true
-  subtitle: "Please try using the site search to find articles"
+  subtitle: "Page not found"
   background: https://bu.dusays.com/2023/05/08/645907596997d.gif
 
 post_meta:
@@ -228,7 +228,7 @@ anchor: false
 # toc (目录)
 toc:
   post: true
-  page: false
+  page: true
   number: true
   expand: false
   style_simple: false # for post
@@ -740,7 +740,7 @@ ClickShowText:
 
 # Default display mode (网站默认的显示模式)
 # light (default) / dark
-display_mode: light
+display_mode: dark
 
 # Beautify (美化页面显示)
 beautify:
@@ -801,7 +801,7 @@ preloader:
   source: 1
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADBGhPC1oGy7b92vhY9f1ChchoPXmLAAJexTEbpKyAVso5IbploCV4AQADAgADeAADNgQ # 自定加载动画义头像
+  avatar: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QACAQtqXnuaL1Pd2BFs8fmjHf-cjMhxHgACHBZrG3NK8FZFzOTO6ohY7QEAAwIAA3gAAz0E
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1075,7 +1075,7 @@ home_top:
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: About us
+    - name: About me
       path: /AboutUs
       shadow: var(--anzhiyu-shadow-green)
       class: green
