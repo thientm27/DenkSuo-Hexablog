@@ -1,7 +1,7 @@
 ---
 title: 'Doctor Dentist: Animal Teeth Care'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADHWhRLrsOpjeMIZsH62VLil_UF8JhAALhwjEb_AWJVq89FPcceK11AQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADHWhRLrsOpjeMIZsH62VLil_UF8JhAALhwjEb_AWJVq89FPcceK11AQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADHWhRLrsOpjeMIZsH62VLil_UF8JhAALhwjEb_AWJVq89FPcceK11AQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADHWhRLrsOpjeMIZsH62VLil_UF8JhAALhwjEb_AWJVq89FPcceK11AQADAgADdwADNgQ
 swiper_index: 13
 top_group_index: 13
 background: '#fff'
@@ -51,9 +51,9 @@ Highlights:
 ---
 
 ### 🖼 Screenshots
-<img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADHWhRLrsOpjeMIZsH62VLil_UF8JhAALhwjEb_AWJVq89FPcceK11AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-<img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADHmhRLsBdBw5CGxsTSDLDxyi0y5KVAALiwjEb_AWJVhVzrs0ulWR-AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-<img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADH2hRLsIX5cFMAoi2U7HUEU6sPileAALjwjEb_AWJVmuwnHctkR3lAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+<img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADHWhRLrsOpjeMIZsH62VLil_UF8JhAALhwjEb_AWJVq89FPcceK11AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+<img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADHmhRLsBdBw5CGxsTSDLDxyi0y5KVAALiwjEb_AWJVhVzrs0ulWR-AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+<img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADH2hRLsIX5cFMAoi2U7HUEU6sPileAALjwjEb_AWJVmuwnHctkR3lAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
 </div>

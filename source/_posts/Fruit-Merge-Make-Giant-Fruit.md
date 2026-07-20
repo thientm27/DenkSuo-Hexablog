@@ -1,7 +1,7 @@
 ---
 title: 'Fruit Merge: Make Giant Fruit'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADIGhRMxtLmqXu0NkW07BzyDb61SwuAAIFxDEbA5-IVpzqaIGzQR1KAQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADIGhRMxtLmqXu0NkW07BzyDb61SwuAAIFxDEbA5-IVpzqaIGzQR1KAQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADIGhRMxtLmqXu0NkW07BzyDb61SwuAAIFxDEbA5-IVpzqaIGzQR1KAQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADIGhRMxtLmqXu0NkW07BzyDb61SwuAAIFxDEbA5-IVpzqaIGzQR1KAQADAgADdwADNgQ
 swiper_index: 14
 top_group_index: 14
 background: '#fff'
@@ -55,8 +55,8 @@ Key Features:
 ### 🖼 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADIWhRM0KIonPXbGcpkEbVTYp71UezAAIGxDEbA5-IVr3qEisMaCqmAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADImhRM0Vzuh6hHwMhpQZAzQvg204vAAIHxDEbA5-IVt6rK-4FHrU8AQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADIWhRM0KIonPXbGcpkEbVTYp71UezAAIGxDEbA5-IVr3qEisMaCqmAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADImhRM0Vzuh6hHwMhpQZAzQvg204vAAIHxDEbA5-IVt6rK-4FHrU8AQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

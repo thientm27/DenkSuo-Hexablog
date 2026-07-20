@@ -1,7 +1,7 @@
 ---
 title: 'Idle Mechanics Manager — Build Your Repair Empire!'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADXmhRoWQ345zscXh2yvbAX83JJYmRAAKOxTEbA5-IVvqMihiCJDCtAQADAgADeQADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADXmhRoWQ345zscXh2yvbAX83JJYmRAAKOxTEbA5-IVvqMihiCJDCtAQADAgADeQADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADXmhRoWQ345zscXh2yvbAX83JJYmRAAKOxTEbA5-IVvqMihiCJDCtAQADAgADeQADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADXmhRoWQ345zscXh2yvbAX83JJYmRAAKOxTEbA5-IVvqMihiCJDCtAQADAgADeQADNgQ
 swiper_index: 12
 top_group_index: 12
 background: '#fff'
@@ -43,12 +43,12 @@ In **Idle Mechanics Manager**, you’re the boss of a growing auto repair busine
 ### 🖼 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADV2hRoVQC41O27FQui5eeLilRkHmqAAKHxTEbA5-IVlhTQeaey0kIAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADWGhRoVfnYzoCiv3TOVssBTBb15-aAAKIxTEbA5-IVmt0xytloQTiAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADWWhRoVkvObCVMBUlKqB_cnAqsQyoAAKJxTEbA5-IVipi4HwONkZQAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADWmhRoVxW1wPg9FwVqWEFKWHtK_d9AAKKxTEbA5-IVuAb3XGSXXFSAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADW2hRoV63q5nRikdZJzdqUFv2o-PeAAKLxTEbA5-IVhLkwf7wdrViAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADXWhRoWHY4xag4u5BhYn0MBtr93KqAAKNxTEbA5-IVphrkEYSFz_FAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADV2hRoVQC41O27FQui5eeLilRkHmqAAKHxTEbA5-IVlhTQeaey0kIAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADWGhRoVfnYzoCiv3TOVssBTBb15-aAAKIxTEbA5-IVmt0xytloQTiAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADWWhRoVkvObCVMBUlKqB_cnAqsQyoAAKJxTEbA5-IVipi4HwONkZQAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADWmhRoVxW1wPg9FwVqWEFKWHtK_d9AAKKxTEbA5-IVuAb3XGSXXFSAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADW2hRoV63q5nRikdZJzdqUFv2o-PeAAKLxTEbA5-IVhLkwf7wdrViAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADXWhRoWHY4xag4u5BhYn0MBtr93KqAAKNxTEbA5-IVphrkEYSFz_FAQADAgADeAADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

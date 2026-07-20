@@ -1,5 +1,6 @@
 ---
 title: Guide to Using Categories and Tags
+published: false
 date: 2025-06-16
 tags: [Guide]
 categories: [Internal Documentation]

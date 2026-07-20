@@ -1,5 +1,6 @@
 ---
 title: Welcome To Benk Studio
+published: false
 date: 2025-06-14 21:31:51
 categories: [Internal Documentation]
 description: Welcome to Benk Studio! This is our first DevLog post, a simple test to ensure everything is working properly. Stay tuned for more updates!

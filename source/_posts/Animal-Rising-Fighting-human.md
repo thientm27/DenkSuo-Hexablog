@@ -1,7 +1,7 @@
 ---
 title: 'Animal Rising: Fighting human'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ
 swiper_index: 11
 top_group_index: 11
 background: '#fff'
@@ -44,13 +44,13 @@ Players can upgrade various attributes using in-game resources:
 - Example: **Backattack Gator** – sneaks behind enemies and cripples them
 - Stats: ❤️ 35 HP | 🗡️ 5 DMG
 
-![Upgrade Menu](https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADKWhRX627mmm5l9NzlHzk5mHv8vG1AAKAxDEbA5-IVgyf8JqIognlAQADAgADdwADNgQ)
+![Upgrade Menu](https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADKWhRX627mmm5l9NzlHzk5mHv8vG1AAKAxDEbA5-IVgyf8JqIognlAQADAgADdwADNgQ)
 
 #### Stage & Resource Upgrades
 - Increase food production rate and storage
 - Boost health for trees and the main home tree
 
-![Upgrade Shop](https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADLmhRX7t-jt6ecS89-Mg3AxVakUr1AAKFxDEbA5-IVmL2S0diwao2AQADAgADdwADNgQ)
+![Upgrade Shop](https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADLmhRX7t-jt6ecS89-Mg3AxVakUr1AAKFxDEbA5-IVmL2S0diwao2AQADAgADdwADNgQ)
 
 ## 🎮 Gameplay
 
@@ -77,15 +77,15 @@ Players can upgrade various attributes using in-game resources:
 
 ## 🖼 Screenshots
 
-[//]: # (<img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />)
+[//]: # (<img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />)
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADLGhRX7aUUEai5l2N0qopz3qznWT-AAKDxDEbA5-IVjGxpeYL0sYTAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADLmhRX7t-jt6ecS89-Mg3AxVakUr1AAKFxDEbA5-IVmL2S0diwao2AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADK2hRX7MNWd5GO0vy1HryH0Uy9rRoAAKCxDEbA5-IVh1q6mDsRi7tAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADKWhRX627mmm5l9NzlHzk5mHv8vG1AAKAxDEbA5-IVgyf8JqIognlAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADKmhRX7CKpCPl1w64Zxlh8iJC7-miAAKBxDEbA5-IVlDvkBXHEo0tAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADLWhRX7mang-yMJkUNwl0c7X7xnIjAAKExDEbA5-IVooO4ItzH8FQAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADLGhRX7aUUEai5l2N0qopz3qznWT-AAKDxDEbA5-IVjGxpeYL0sYTAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADLmhRX7t-jt6ecS89-Mg3AxVakUr1AAKFxDEbA5-IVmL2S0diwao2AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADK2hRX7MNWd5GO0vy1HryH0Uy9rRoAAKCxDEbA5-IVh1q6mDsRi7tAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADKWhRX627mmm5l9NzlHzk5mHv8vG1AAKAxDEbA5-IVgyf8JqIognlAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADKmhRX7CKpCPl1w64Zxlh8iJC7-miAAKBxDEbA5-IVlDvkBXHEo0tAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

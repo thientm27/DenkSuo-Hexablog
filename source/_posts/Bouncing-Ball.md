@@ -12,6 +12,7 @@ categories: [Game Showcase, Mobile Game]
 keywords:
 description: A fast-paced 3D arcade game where modified drones battle in a neon sci-fi arena, bouncing energy balls to score against opponents in chaotic multi-drone matches.
 top:
+published: false
 ---
 
 ## 🏓 Bouncing Ball

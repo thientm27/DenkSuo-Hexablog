@@ -1,6 +1,6 @@
 ---
 title: AnnoyPuzzle
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD22nE55iYHmMFoIWZZH9-dwXZD7dWAAK9DWsb8f0gVrkFIQn2_ug6AQADAgADdwADOgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD22nE55iYHmMFoIWZZH9-dwXZD7dWAAK9DWsb8f0gVrkFIQn2_ug6AQADAgADdwADOgQ
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -10,23 +10,6 @@ tags: [2D, Puzzle, Casual, Mobile, Unity]
 categories: [Game Showcase, Mobile Game]
 keywords: puzzle game, drag and drop, brain teaser, casual game
 description: A deceptively simple drag-and-drop puzzle game that will test your logic, patience, and sanity.
-top:
-top_img:
-comments:
-toc:
-toc_number:
-toc_style_simple:
-copyright:
-copyright_author:
-copyright_author_href:
-copyright_url:
-copyright_info:
-mathjax:
-katex:
-aplayer:
-highlight_shrink:
-aside:
-ai:
 ---
 
 ---
@@ -81,19 +64,19 @@ Sometimes you’ll need to:
 ### 🖼 Screenshots
 
 <div style="max-width: 900px; margin: auto; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD12nE541n1Zgj_fsYjAY9Bt9tXkRgAAK5DWsb8f0gVlWpkt3UnX8OAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD2GnE55FgfGzRkluN2yVtaxx9_Q9uAAK6DWsb8f0gVosjK-ydfHL-AQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD2WnE55PQ6go2PAUCGVRTocS5BU-pAAK7DWsb8f0gVv_MUJpQT40EAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD22nE55iYHmMFoIWZZH9-dwXZD7dWAAK9DWsb8f0gVrkFIQn2_ug6AQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD12nE541n1Zgj_fsYjAY9Bt9tXkRgAAK5DWsb8f0gVlWpkt3UnX8OAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD2GnE55FgfGzRkluN2yVtaxx9_Q9uAAK6DWsb8f0gVosjK-ydfHL-AQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD2WnE55PQ6go2PAUCGVRTocS5BU-pAAK7DWsb8f0gVv_MUJpQT40EAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD22nE55iYHmMFoIWZZH9-dwXZD7dWAAK9DWsb8f0gVrkFIQn2_ug6AQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
 </div>
 
 <div style="height: 16px;"></div>
 
 <div style="max-width: 900px; margin: auto; display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD3WnE8C-JsVm5nO5qjLkeqiX12sk2AALaDWsb8f0gVgYpwhE0CW3NAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD3mnE8DJNnlrE4IwQbYZyFZWq0x4TAALbDWsb8f0gVqTsoAl-wO7cAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD32nE8DV0ajl44fzdSUDO-9k41ZnZAALcDWsb8f0gVgEAAZjqsLGz4wEAAwIAA3cAAzoE" style="width: 100%; border-radius: 10px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD4GnE8DfHt9hyYctBOTypjdYL2VR0AALdDWsb8f0gVhLQx33p9BIGAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD3WnE8C-JsVm5nO5qjLkeqiX12sk2AALaDWsb8f0gVgYpwhE0CW3NAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD3mnE8DJNnlrE4IwQbYZyFZWq0x4TAALbDWsb8f0gVqTsoAl-wO7cAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD32nE8DV0ajl44fzdSUDO-9k41ZnZAALcDWsb8f0gVgEAAZjqsLGz4wEAAwIAA3cAAzoE" style="width: 100%; border-radius: 10px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD4GnE8DfHt9hyYctBOTypjdYL2VR0AALdDWsb8f0gVhLQx33p9BIGAQADAgADdwADOgQ" style="width: 100%; border-radius: 10px;" />
 </div>
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Dragon Dunk'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADJmhRW4P889vKZI_hhORIUmNn4zrFAAJ6xDEbA5-IVu_2RVv__y-3AQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADJmhRW4P889vKZI_hhORIUmNn4zrFAAJ6xDEbA5-IVu_2RVv__y-3AQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADJmhRW4P889vKZI_hhORIUmNn4zrFAAJ6xDEbA5-IVu_2RVv__y-3AQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADJmhRW4P889vKZI_hhORIUmNn4zrFAAJ6xDEbA5-IVu_2RVv__y-3AQADAgADdwADNgQ
 swiper_index: 16
 top_group_index: 16
 background: '#fff'
@@ -74,12 +74,12 @@ Key Highlights:
 ### 🖼 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADJmhRW4P889vKZI_hhORIUmNn4zrFAAJ6xDEbA5-IVu_2RVv__y-3AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADJGhRW31VqMJR8_fLlQAB3BDtu2XvzwACeMQxGwOfiFYr1TkWT2SWFQEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADJ2hRW4ZAFRWe-MIr3Mc7bwOpVfX5AAJ7xDEbA5-IVkSi-btdZgGwAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADKGhRW4iBXVrHdvVu4MHoctWHCIZlAAJ8xDEbA5-IVmOmiUti2HKlAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADI2hRW3io0rgAAQt0-KOvmpq5sRo6rAACd8QxGwOfiFbqaCRhLRGg3gEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADJWhRW4DV-My5inY5phXw1ZNSMR87AAJ5xDEbA5-IVqDfhYvQyBatAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADJmhRW4P889vKZI_hhORIUmNn4zrFAAJ6xDEbA5-IVu_2RVv__y-3AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADJGhRW31VqMJR8_fLlQAB3BDtu2XvzwACeMQxGwOfiFYr1TkWT2SWFQEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADJ2hRW4ZAFRWe-MIr3Mc7bwOpVfX5AAJ7xDEbA5-IVkSi-btdZgGwAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADKGhRW4iBXVrHdvVu4MHoctWHCIZlAAJ8xDEbA5-IVmOmiUti2HKlAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADI2hRW3io0rgAAQt0-KOvmpq5sRo6rAACd8QxGwOfiFbqaCRhLRGg3gEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADJWhRW4DV-My5inY5phXw1ZNSMR87AAJ5xDEbA5-IVqDfhYvQyBatAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Bird Dunk — A Fun Mobile Tap Game'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADDmhRII58rvnayESZD1-Md2xtYWD-AAKvwjEb_AWJVnGLUreUMpFFAQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADDmhRII58rvnayESZD1-Md2xtYWD-AAKvwjEb_AWJVnGLUreUMpFFAQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADDmhRII58rvnayESZD1-Md2xtYWD-AAKvwjEb_AWJVnGLUreUMpFFAQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADDmhRII58rvnayESZD1-Md2xtYWD-AAKvwjEb_AWJVnGLUreUMpFFAQADAgADdwADNgQ
 swiper_index: 11
 top_group_index: 11
 background: '#fff'
@@ -38,17 +38,17 @@ Take control of an adorable bird and finesse your shots through a series of hoop
 
 ### 🖼 Screenshots
 
-<img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADDmhRII58rvnayESZD1-Md2xtYWD-AAKvwjEb_AWJVnGLUreUMpFFAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+<img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADDmhRII58rvnayESZD1-Md2xtYWD-AAKvwjEb_AWJVnGLUreUMpFFAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADD2hRIJJFWdq1kizQl--c4-YaA-dBAAKwwjEb_AWJVk9JOavVYvstAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADEGhRIJUg6iqrExFN1vKR8AYyR2-kAAKxwjEb_AWJVr_rikZSJ761AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADFmhRIKYc_3pEHnhdwUjURx7MCDzWAAK3wjEb_AWJVmjtr2IlyU9AAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADFWhRIKMbF1HDVwWosAKxo7C7K9cKAAK2wjEb_AWJVtPrVSYutrHOAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADFGhRIKFZyw_wI3x5VAABZnOlKkiYmAACtcIxG_wFiVYvBOF0iYoXdwEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADE2hRIJ-lnYavvmQTNcWyg6kt-dDiAAK0wjEb_AWJVtzA8nZNN6YwAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADEWhRIJnwpOQgIB7Y_FSCL23tRiI_AAKywjEb_AWJVkopyIAXrtrDAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADEmhRIJtCC5gxNIiWHRpraA6V0Q72AAKzwjEb_AWJVp6mPOIIdtKOAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADD2hRIJJFWdq1kizQl--c4-YaA-dBAAKwwjEb_AWJVk9JOavVYvstAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADEGhRIJUg6iqrExFN1vKR8AYyR2-kAAKxwjEb_AWJVr_rikZSJ761AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADFmhRIKYc_3pEHnhdwUjURx7MCDzWAAK3wjEb_AWJVmjtr2IlyU9AAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADFWhRIKMbF1HDVwWosAKxo7C7K9cKAAK2wjEb_AWJVtPrVSYutrHOAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADFGhRIKFZyw_wI3x5VAABZnOlKkiYmAACtcIxG_wFiVYvBOF0iYoXdwEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADE2hRIJ-lnYavvmQTNcWyg6kt-dDiAAK0wjEb_AWJVtzA8nZNN6YwAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADEWhRIJnwpOQgIB7Y_FSCL23tRiI_AAKywjEb_AWJVkopyIAXrtrDAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADEmhRIJtCC5gxNIiWHRpraA6V0Q72AAKzwjEb_AWJVp6mPOIIdtKOAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

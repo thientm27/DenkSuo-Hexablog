@@ -1,7 +1,7 @@
 ---
 title: 'Pirate Run: Island Trader'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Gnc4zMXlohqZM2nL1R5l7Y9mzz2AALKEGsbBoDpVrKN0kAdo1c3AQADAgADdwADOwQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Gnc4zMXlohqZM2nL1R5l7Y9mzz2AALKEGsbBoDpVrKN0kAdo1c3AQADAgADdwADOwQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Gnc4zMXlohqZM2nL1R5l7Y9mzz2AALKEGsbBoDpVrKN0kAdo1c3AQADAgADdwADOwQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Gnc4zMXlohqZM2nL1R5l7Y9mzz2AALKEGsbBoDpVrKN0kAdo1c3AQADAgADdwADOwQ
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -59,15 +59,15 @@ Key Highlights:
 ### 🖼 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Gnc4zMXlohqZM2nL1R5l7Y9mzz2AALKEGsbBoDpVrKN0kAdo1c3AQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD92nc4ysWFCVEpffpcWHcTRSKWgLXAALJEGsbBoDpViAqCr5jg1yVAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Wnc4zkfC4SbzfigEbKXpqgPxGbcAALLEGsbBoDpVhuVqhY9_7FcAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD_Gnc40lcBHC3uhV8p_1YAAHuLzd74wACzhBrGwaA6VZNF7bu69mg0wEAAwIAA3cAAzsE" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD_Wnc402O_LPvM_4peahKS6X7m5J6AALQEGsbBoDpVnmrzp9R6ygHAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QACAQABadzjXN7O_FKWn9Q8Dqk7Tr5S9CQAAtMQaxsGgOlWU5fC1hLJlnYBAAMCAAN3AAM7BA" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QACAQFp3ONiDpQuCoaJAp_oBy8GL--06QAC1BBrGwaA6VaMArtUf0vF-QEAAwIAA3cAAzsE" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-mnc40DjNR3WrlZiG0mxcqCiiDxLAALMEGsbBoDpVpKFDxK5zmygAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QAD_2nc41cXFgPc9q4wn1vMonL3i_Y1AALSEGsbBoDpVuAMIz6hYAcmAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Gnc4zMXlohqZM2nL1R5l7Y9mzz2AALKEGsbBoDpVrKN0kAdo1c3AQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD92nc4ysWFCVEpffpcWHcTRSKWgLXAALJEGsbBoDpViAqCr5jg1yVAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-Wnc4zkfC4SbzfigEbKXpqgPxGbcAALLEGsbBoDpVhuVqhY9_7FcAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD_Gnc40lcBHC3uhV8p_1YAAHuLzd74wACzhBrGwaA6VZNF7bu69mg0wEAAwIAA3cAAzsE" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD_Wnc402O_LPvM_4peahKS6X7m5J6AALQEGsbBoDpVnmrzp9R6ygHAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QACAQABadzjXN7O_FKWn9Q8Dqk7Tr5S9CQAAtMQaxsGgOlWU5fC1hLJlnYBAAMCAAN3AAM7BA" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QACAQFp3ONiDpQuCoaJAp_oBy8GL--06QAC1BBrGwaA6VaMArtUf0vF-QEAAwIAA3cAAzsE" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD-mnc40DjNR3WrlZiG0mxcqCiiDxLAALMEGsbBoDpVpKFDxK5zmygAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QAD_2nc41cXFgPc9q4wn1vMonL3i_Y1AALSEGsbBoDpVuAMIz6hYAcmAQADAgADdwADOwQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

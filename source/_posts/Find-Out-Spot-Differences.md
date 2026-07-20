@@ -1,7 +1,7 @@
 ---
 title: 'Find Out: Spot Differences'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADF2hRK6G4N76pjaAJzI8pdMjq9YFvAALQwjEb_AWJVo3J4Wkw2x47AQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADF2hRK6G4N76pjaAJzI8pdMjq9YFvAALQwjEb_AWJVo3J4Wkw2x47AQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADF2hRK6G4N76pjaAJzI8pdMjq9YFvAALQwjEb_AWJVo3J4Wkw2x47AQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADF2hRK6G4N76pjaAJzI8pdMjq9YFvAALQwjEb_AWJVo3J4Wkw2x47AQADAgADdwADNgQ
 swiper_index: 12
 top_group_index: 12
 background: '#fff'
@@ -54,11 +54,11 @@ Benefits:
 ### 🖼 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADG2hRK7NkNPsFFXmXnBeFqXbEwlRXAALUwjEb_AWJVni-QtMS1V4iAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADHGhRK7f630L1UmL36if4AAHlM_a2SAAC1cIxG_wFiVbRj-luTrV9LAEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADGGhRK6dlriFX3191zKQHvWapKwrFAALRwjEb_AWJVsKQeD_JFssfAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADGWhRK6szuSLgJTtbEZkJfr-At6SaAALSwjEb_AWJVt8NC76kA7fiAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADGmhRK6_uTCAh0tNgSZCsOhgMh3_NAALTwjEb_AWJVnk6SsBgIOmcAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADG2hRK7NkNPsFFXmXnBeFqXbEwlRXAALUwjEb_AWJVni-QtMS1V4iAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADHGhRK7f630L1UmL36if4AAHlM_a2SAAC1cIxG_wFiVbRj-luTrV9LAEAAwIAA3cAAzYE" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADGGhRK6dlriFX3191zKQHvWapKwrFAALRwjEb_AWJVsKQeD_JFssfAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADGWhRK6szuSLgJTtbEZkJfr-At6SaAALSwjEb_AWJVt8NC76kA7fiAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADGmhRK6_uTCAh0tNgSZCsOhgMh3_NAALTwjEb_AWJVnk6SsBgIOmcAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

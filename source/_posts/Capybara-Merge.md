@@ -1,7 +1,7 @@
 ---
 title: 'Capybara Merge: Build Your Capybara Empire'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADQWhRlxpnV1aBufF6EPnwi9BfSpWGAAL3xDEbA5-IVkqVO4SneXYLAQADAgADeQADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADQWhRlxpnV1aBufF6EPnwi9BfSpWGAAL3xDEbA5-IVkqVO4SneXYLAQADAgADeQADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADQWhRlxpnV1aBufF6EPnwi9BfSpWGAAL3xDEbA5-IVkqVO4SneXYLAQADAgADeQADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADQWhRlxpnV1aBufF6EPnwi9BfSpWGAAL3xDEbA5-IVkqVO4SneXYLAQADAgADeQADNgQ
 swiper_index: 18
 top_group_index: 18
 background: '#fff'
@@ -54,12 +54,12 @@ Key Features:
 ### 🖼 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADOmhRlweW5YKLoO8g4_tRo0mz9vmPAALwxDEbA5-IVpg0DaWIpvUgAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADO2hRlwtRzEaz-Pn-W_LyC28_Ie7jAALxxDEbA5-IVqVS9w6PjGyiAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADPGhRlw53YLLhXqmUV6wr0MZyHk-_AALyxDEbA5-IVo5FdIe_E492AQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADPmhRlxKoQof_STM1rEm2MelVDI0DAAL0xDEbA5-IVj1BG-of92inAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADP2hRlxX0v8Ap6g_N3mZKiAEkA1f2AAL1xDEbA5-IVs1Hp5iSj34GAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADQGhRlxesA_KtS-ZNIZzDzRqQRDcyAAL2xDEbA5-IVttru8rFWNlHAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADOmhRlweW5YKLoO8g4_tRo0mz9vmPAALwxDEbA5-IVpg0DaWIpvUgAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADO2hRlwtRzEaz-Pn-W_LyC28_Ie7jAALxxDEbA5-IVqVS9w6PjGyiAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADPGhRlw53YLLhXqmUV6wr0MZyHk-_AALyxDEbA5-IVo5FdIe_E492AQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADPmhRlxKoQof_STM1rEm2MelVDI0DAAL0xDEbA5-IVj1BG-of92inAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADP2hRlxX0v8Ap6g_N3mZKiAEkA1f2AAL1xDEbA5-IVs1Hp5iSj34GAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADQGhRlxesA_KtS-ZNIZzDzRqQRDcyAAL2xDEbA5-IVttru8rFWNlHAQADAgADeQADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

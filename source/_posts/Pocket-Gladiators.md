@@ -1,7 +1,7 @@
 ---
 title: 'Pocket Gladiators'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADMGhRernVkCtlPJzRjGRH1V1ivTVCAALAxDEbA5-IVko_VwFgdAUlAQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADMGhRernVkCtlPJzRjGRH1V1ivTVCAALAxDEbA5-IVko_VwFgdAUlAQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADMGhRernVkCtlPJzRjGRH1V1ivTVCAALAxDEbA5-IVko_VwFgdAUlAQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADMGhRernVkCtlPJzRjGRH1V1ivTVCAALAxDEbA5-IVko_VwFgdAUlAQADAgADdwADNgQ
 swiper_index: 17
 top_group_index: 17
 background: '#fff'
@@ -80,16 +80,16 @@ Key Highlights:
 ### 🖼 Screenshots
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADL2hRerQUr2U46faN7d4gxkVHEC66AAK_xDEbA5-IVumuy9LCYdRYAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADMGhRernVkCtlPJzRjGRH1V1ivTVCAALAxDEbA5-IVko_VwFgdAUlAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADMWhRerz6WwYu83Xaek0PCPO_85wsAALBxDEbA5-IVhJeQRFfxyXUAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADNGhResaPV0qBIecH2ZGIY5ZywtknAALExDEbA5-IVgTVQbHwcgzRAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADNmhResqtO4zJBWSpmyDD1Z9YkUYxAALGxDEbA5-IVrn5fbquOcX8AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADNWhResiPGGpHEO0Mw1OrEnwCxONlAALFxDEbA5-IVvQNPVLqg1khAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADMmhRer_ZI29HAd5ueLdqqI9dhrBmAALCxDEbA5-IVrRKEzEDZ9mnAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADM2hResJrFiDihN84N7nzB_HJ9KGdAALDxDEbA5-IVuac6qf_PqAFAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADN2hRes7vS4Oc5a4i3Zvcsf4UiLADAALHxDEbA5-IVvoOSG8W0g6EAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADOWhRetMOzQpA2_R0OSzNu4QveStEAALJxDEbA5-IVsjllukYwqVtAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADL2hRerQUr2U46faN7d4gxkVHEC66AAK_xDEbA5-IVumuy9LCYdRYAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADMGhRernVkCtlPJzRjGRH1V1ivTVCAALAxDEbA5-IVko_VwFgdAUlAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADMWhRerz6WwYu83Xaek0PCPO_85wsAALBxDEbA5-IVhJeQRFfxyXUAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADNGhResaPV0qBIecH2ZGIY5ZywtknAALExDEbA5-IVgTVQbHwcgzRAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADNmhResqtO4zJBWSpmyDD1Z9YkUYxAALGxDEbA5-IVrn5fbquOcX8AQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADNWhResiPGGpHEO0Mw1OrEnwCxONlAALFxDEbA5-IVvQNPVLqg1khAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADMmhRer_ZI29HAd5ueLdqqI9dhrBmAALCxDEbA5-IVrRKEzEDZ9mnAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADM2hResJrFiDihN84N7nzB_HJ9KGdAALDxDEbA5-IVuac6qf_PqAFAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADN2hRes7vS4Oc5a4i3Zvcsf4UiLADAALHxDEbA5-IVvoOSG8W0g6EAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADOWhRetMOzQpA2_R0OSzNu4QveStEAALJxDEbA5-IVsjllukYwqVtAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---
