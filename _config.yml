@@ -102,5 +102,5 @@ theme: anzhiyu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:thientm27/benkstudio.github.io
+  repository: git@github.com:thientm27/denksuo.github.io
   branch: main
