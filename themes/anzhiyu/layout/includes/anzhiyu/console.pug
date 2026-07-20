@@ -1,0 +1,47 @@
+#console
+  .console-card-group-reward
+    ul.reward-all.console-card
+      each item in theme.reward.QR_code
+        li.reward-item
+          a(href=url_for(item.link || item.img), target='_blank')
+            img.post-qr-code-img(alt=item.text, src=url_for(item.img))
+          .post-qr-code-desc=item.text
+  .console-card-group
+    .console-card-group-left
+      !=partial('includes/widget/card_newest_comment', {}, {cache: true})
+    .console-card-group-right
+      .console-card.tags
+        .card-content
+          if theme.nav_music.enable && theme.nav_music.console_widescreen_music
+            .author-content-item-tips Music
+            span.author-content-item-title Soul Collision 💥
+          else 
+            .author-content-item-tips Interests
+            span.author-content-item-title Discover What You're Into
+            !=partial('includes/widget/card_console_tags', {}, {cache: true})
+      .console-card.history
+        .item-headline
+          i.anzhiyufont.anzhiyu-icon-box-archiv
+          span 文章
+        !=partial('includes/widget/card_console_archives', {}, {cache: true})
+  .button-group
+    if theme.darkmode.enable
+      .console-btn-item
+        a.darkmode_switchbutton(title='Display Mode', href='javascript:void(0);')
+          i.anzhiyufont.anzhiyu-icon-moon
+    .console-btn-item#consoleHideAside(onclick='anzhiyu.hideAsideBtn()', title='Sidebar Display Control')
+      a.asideSwitch
+        i.anzhiyufont.anzhiyu-icon-arrows-left-right
+    if theme.comment_barrage_config.enable
+      .console-btn-item.on#consoleCommentBarrage(onclick='anzhiyu.switchCommentBarrage()', title='Hot Comments Toggle')
+        a.commentBarrage
+          i.anzhiyufont.anzhiyu-icon-message
+    if theme.nav_music.enable
+      .console-btn-item#consoleMusic(onclick='anzhiyu.musicToggle()', title='Music Toggle')
+        a.music-switch
+          i.anzhiyufont.anzhiyu-icon-music
+    if theme.shortcutKey.enable
+      .console-btn-item#consoleKeyboard(onclick='anzhiyu.keyboardToggle()', title='Hotkey Toggle')
+        a.keyboard-switch
+          i.anzhiyufont.anzhiyu-icon-keyboard
+  .console-mask(onclick='anzhiyu.hideConsole()', href='javascript:void(0);')
