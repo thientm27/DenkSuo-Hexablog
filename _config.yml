@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Benk Studio
+title: Denk Studio
 subtitle: ""
-description: "Benk Studio is an independent game development studio creating games for any platforms."
-keywords: ["game development", "indie studio", "casual games", "hyper-casual", "Unity", "Benk Studio", "Benk", "Games", "Game Design", "Game Art", "Game Programming", "Game Development", "Mobile Games", "PC Games", "Console Games"]
+description: "Denk Studio is an independent game development studio creating games for any platforms."
+keywords: ["game development", "indie studio", "casual games", "hyper-casual", "Unity", "Denk Studio", "Denk", "Games", "Game Design", "Game Art", "Game Programming", "Game Development", "Mobile Games", "PC Games", "Console Games"]
 author: ThienTm27 aka Denk
 language: en
 timezone: Asia/Ho_Chi_Minh
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://benkstudio.com/
+url: https://denksuo.pages.dev/
 permalink: denksuo/:title/
 permalink_defaults:
 pretty_urls:

@@ -1,7 +1,7 @@
 ---
 title: '2 Player Games: Dog Cat Battle'
-cover: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADDWhRHR7Xr5AmDHRPq2kL_G7zPnqwAAKmwjEb_AWJVg38lWA5pk7ZAQADAgADdwADNgQ
-top_img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADDWhRHR7Xr5AmDHRPq2kL_G7zPnqwAAKmwjEb_AWJVg38lWA5pk7ZAQADAgADdwADNgQ
+cover: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADDWhRHR7Xr5AmDHRPq2kL_G7zPnqwAAKmwjEb_AWJVg38lWA5pk7ZAQADAgADdwADNgQ
+top_img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADDWhRHR7Xr5AmDHRPq2kL_G7zPnqwAAKmwjEb_AWJVg38lWA5pk7ZAQADAgADdwADNgQ
 swiper_index: 10
 top_group_index: 10
 background: '#fff'
@@ -48,12 +48,12 @@ Whether you're looking to spark some friendly rivalry between friends, siblings,
 
 ### 🖼 Screenshots
 
-<img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADDWhRHR7Xr5AmDHRPq2kL_G7zPnqwAAKmwjEb_AWJVg38lWA5pk7ZAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+<img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADDWhRHR7Xr5AmDHRPq2kL_G7zPnqwAAKmwjEb_AWJVg38lWA5pk7ZAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 12px;">
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADB2hRGcaWaK9R-OO_wVFr5vnAPBpsAAKZwjEb_AWJVpI5COuCi6WYAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADCGhRGcmSKeLvnEhOJBQftStZ2hbXAAKawjEb_AWJVnZRLpQKlfNvAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADCWhRGct-kP71hbONLF9_hJSgDbPHAAKbwjEb_AWJVqLhLm5tEsYaAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
-  <img src="https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADCmhRGc4-FPJTqGmZ5oki-4_xJYEOAAKcwjEb_AWJVt-IlkyEubaPAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADB2hRGcaWaK9R-OO_wVFr5vnAPBpsAAKZwjEb_AWJVpI5COuCi6WYAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADCGhRGcmSKeLvnEhOJBQftStZ2hbXAAKawjEb_AWJVnZRLpQKlfNvAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADCWhRGct-kP71hbONLF9_hJSgDbPHAAKbwjEb_AWJVqLhLm5tEsYaAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
+  <img src="https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADCmhRGc4-FPJTqGmZ5oki-4_xJYEOAAKcwjEb_AWJVt-IlkyEubaPAQADAgADdwADNgQ" style="width: 100%; border-radius: 8px;" />
 </div>
 
 ---

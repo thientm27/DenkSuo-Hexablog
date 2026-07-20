@@ -29,7 +29,7 @@ nav:
     - title: Our Sites
       item:
         - name: Blog
-          link: https://benkstudio.com/
+          link: https://denksuo.pages.dev/
           icon: /img/favicon.ico
         - name: Services
           link: /Services
@@ -141,7 +141,7 @@ favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
-  img: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADBGhPC1oGy7b92vhY9f1ChchoPXmLAAJexTEbpKyAVso5IbploCV4AQADAgADeAADNgQ
+  img: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADBGhPC1oGy7b92vhY9f1ChchoPXmLAAJexTEbpKyAVso5IbploCV4AQADAgADeAADNgQ
   effect: false
 
 # Disable all banner image
@@ -464,16 +464,16 @@ footer:
     centerImg:
     left:
       - title: email
-        link: mailto:benk.studiogame@gmail.com
+        link: mailto:thientm.denk@gmail.com
         icon: anzhiyu-icon-envelope
       - title: LinkedIn
         link: https://www.linkedin.com/company/denk-game-studio
         icon: anzhiyu-icon-rss
       - title: Facebook
-        link: https://www.facebook.com/benkstudio/
+        link: https://www.facebook.com/DenkTieu/
         icon: anzhiyu-icon-facebook1
       - title: Youtube
-        link: https://www.youtube.com/@BenkStudio
+        link: https://www.youtube.com/@DenkStudio
         icon: anzhiyu-icon-play
     #       - title: RSS
     #         link: atom.xml
@@ -801,7 +801,7 @@ preloader:
   source: 1
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://iamge.benkstudio.com/api/cfile/AgACAgUAAyEGAASLAAFR7QADBGhPC1oGy7b92vhY9f1ChchoPXmLAAJexTEbpKyAVso5IbploCV4AQADAgADeAADNgQ # 自定加载动画义头像
+  avatar: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QADBGhPC1oGy7b92vhY9f1ChchoPXmLAAJexTEbpKyAVso5IbploCV4AQADAgADeAADNgQ # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
@@ -1061,9 +1061,9 @@ css_prefix: true
 home_top:
   enable: true # Switch
   timemode: date # date/updated
-  title: Benk Studio
+  title: Denk Studio
   subTitle: Everything is Lovely.
-  siteText: BenkStudio.com
+  siteText: DenkStudio.com
   category:
     - name: Services
       path: /Services
