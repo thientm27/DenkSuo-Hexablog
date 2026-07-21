@@ -1070,7 +1070,7 @@ home_top:
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: Social
+    - name: Categories
       path: /categories
       shadow: var(--anzhiyu-shadow-red)
       class: red
@@ -1086,9 +1086,9 @@ home_top:
     swiper_css: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.css # Swiper CSS dependency
     swiper_js: https://npm.elemecdn.com/anzhiyu-theme-static@1.0.0/swiper/swiper.min.js # Swiper JS dependency
   banner:
-    tips: (Coming soon)
-    title: Big Banner Title
-    image:
+    tips: Personal Game Project - (Coming soon)
+    title: Bath Mare
+    image: https://telegraph-image-denkstudio.pages.dev/api/cfile/AgACAgUAAyEGAASLAAFR7QACAQ1qXpEKN51tyrkB00HfcYlMRWbXxgACMhZrG3NK8FZtf5YKiHohjQEAAwIAA3cAAz0E
     link:
 
 # 朋友圈配置
